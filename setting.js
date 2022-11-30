@@ -1,29 +1,29 @@
  {
- "contactOwner": "Nomor ke 1 lu",
- "contactOwner2": "Nomor ke 2 lu", 
- "botName": "Nama Bot",
- "ownerName": "Nama lu",
+ "contactOwner": "6285806459088",
+ "contactOwner2": "6281319682940", 
+ "botName": "SevenNight",
+ "ownerName": "Mikaa",
  "sessionName": "session",
- "footer": "Nama Bot © 2022",
- "packname": "Seterah",
- "author": "Seterah",
+ "footer": "SevenNight By Mikaa",
+ "packname": "Mikaa",
+ "author": "Mikaa",
  
- "youtube": "YouTube lu kalo ga punya kasih tanda min (-) ajah",
- "github": "Github lu",
- "instagram": "Instagram lu",
+ "youtube": "https://www.youtube.com/watch?v=S16la",
+ "github": "Firxyz",
+ "instagram": "@andiariskaard_",
  "tiktok": "Tiktok lu",
  "website": "Website lu",
  "email": "Email lu",
- "gender": "Gender/Alat kelamin lu",
- "agama": "Agama lu",
- "tanggallahir": "Tanggal lahir lu",
- "umur": "Umur lu",
- "kelas": "Kelas lu",
- "hobi": "Hobi lu",
- "sifat": "Sifat lu",
- "tinggal": "Tempat tinggal lu",
- "suka": "Lu suka apa? ",
- "benci": "Lu benci apa? ",
+ "gender": "Laki-laki",
+ "agama": "Atheis",
+ "tanggallahir": "27-7-2009",
+ "umur": "13",
+ "kelas": "9D",
+ "hobi": "Belajar",
+ "sifat": "I Don't Care About Other People",
+ "tinggal": "Australia",
+ "suka": "You know Mikaa? ",
+ "benci": "Manusia! ",
  
   "login_di": "https://alphabot-api.herokuapp.com",
   "apikey_alpha": "APIKEY LU", 
@@ -40,11 +40,11 @@
  "payment": {
     "qris": {
       "link_nya": "Link gambar qris lu", 
-      "atas_nama": "Nama lu" 
+      "atas_nama": "Riri" 
     },
     "dana": {
-      "nomer": "Nomor dana lu", 
-      "atas_nama": "Nama lu" 
+      "nomer": "6285806459088", 
+      "atas_nama": "Mikaa" 
     }},
     
   "pathQris": "./temp/media/qris.jpg", 
